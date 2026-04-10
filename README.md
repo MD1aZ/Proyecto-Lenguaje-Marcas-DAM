@@ -6,7 +6,7 @@
 - ✅ [Estado del proyecto](#estado-del-proyecto)
 - 🌐 [Acceso a la página web del proyecto](https://md1az.github.io/Proyecto-Lenguaje-Marcas-DAM/)
 - 💻 [Tecnologías utilizadas](#tecnolog%C3%ADas-utilizadas)
-- 👨‍💻 [Autor](README.md#autor)
+- 👨‍💻 [Autor](#autor)
 
 ## Vista previa del proyecto
 
