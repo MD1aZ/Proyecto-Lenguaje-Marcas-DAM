@@ -20,7 +20,7 @@
 ## 💻 Tecnologías utilizadas
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode" Alt="Logos Tecnologias Usadas en el Proyecto"/>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" Alt="Logos Tecnologias Usadas en el Proyecto"/>
   </a>
 </p>
 
