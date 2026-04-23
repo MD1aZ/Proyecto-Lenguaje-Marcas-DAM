@@ -12,9 +12,9 @@
 
 ## 🖼 Vista previa del proyecto
 
-<img width="1910" height="828" alt="imagen" src="https://github.com/user-attachments/assets/6b4d346e-168c-4fa4-b350-323220513ab1" />
-<img width="1909" height="793" alt="imagen" src="https://github.com/user-attachments/assets/c8b0f2de-df77-48c4-9518-472e12168c15" />
-<img width="1905" height="894" alt="imagen" src="https://github.com/user-attachments/assets/f252efab-716d-4f47-85ab-bfd8b869e3b2" />
+<img width="1910" height="828" alt="imagen" src="https://github.com/user-attachments/assets/6b4d346e-168c-4fa4-b350-323220513ab1" /><br>
+<img width="1909" height="793" alt="imagen" src="https://github.com/user-attachments/assets/c8b0f2de-df77-48c4-9518-472e12168c15" /><br>
+<img width="1905" height="894" alt="imagen" src="https://github.com/user-attachments/assets/f252efab-716d-4f47-85ab-bfd8b869e3b2" /><br>
 <img width="1913" height="895" alt="imagen" src="https://github.com/user-attachments/assets/9f8b289f-59e2-4e52-972b-15bc855fb7e2" />
 
 ## 💻 Tecnologías utilizadas
